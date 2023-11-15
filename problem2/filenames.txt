@@ -1,0 +1,10 @@
+uppercase.txt
+problem1.txt
+problem2.txt
+problem3.txt
+problem4.txt
+problem5.txt
+problem6.txt
+problem7.txt
+problem8.txt
+sorted.txt
